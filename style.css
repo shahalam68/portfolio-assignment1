@@ -1,4 +1,35 @@
-.nav{
-    width: 80%;
+body{
+    margin: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.for-color{
+    color: #363958;
+}
+.pink-highlight{
+    color: #FF8367;
+}
+p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #3E3E3E;
+}
+.half-width{
+    width: 40%;
     float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(180deg,#FF8063, #F46060);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 400;
+    color: white;
 }
