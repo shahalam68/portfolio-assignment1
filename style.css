@@ -1,9 +1,20 @@
 body{
-    margin: 40px;
+    
     font-family: 'Bebas Neue', cursive;
+}
+section{
+    padding-bottom: 120px;
+    height: 500px;
 }
 h1{
     font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h4{
+    font-size: 24px;
+    color: #363958;
 }
 .for-color{
     color: #363958;
@@ -33,3 +44,63 @@ p{
     font-weight: 400;
     color: white;
 }
+.gry-highligh{
+    color: #F46060;
+}
+.h2-color-highligh{
+    color: #363958;
+}
+.latest-work{
+    text-align: center;
+}
+.onethird-width{
+    width: 26%;
+    float: left;
+    margin-left: 5%;
+}
+.onethird-width img{
+    width: 100%;
+}
+.for-box{
+    box-shadow: 2px 2px 15px gray;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+}
+#link{
+    margin-top: 64px;
+    padding-left: 20px;
+    
+}
+.for-img{
+    background-image: url(img/Group_33094_1.png);
+    width: 60%;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 20%;
+    padding-top: 20px;
+}
+.half-width1{
+    float: left;
+    width: 40%;
+   margin-left: 5%;
+   padding-left: 2%;   
+}
+.link-button1{
+    text-decoration: none;
+    background: linear-gradient(180deg,#FF8063, #F46060);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 400;
+    color: white;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.color-highlight{
+    color: white;
+    font-weight: 500;
+}
+
+
+
