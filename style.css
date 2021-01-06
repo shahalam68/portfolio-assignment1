@@ -101,6 +101,34 @@ p{
     color: white;
     font-weight: 500;
 }
-
-
+.education{
+    text-align: center;
+}
+.ed-color{
+    color: #FF8367;
+}
+.and-color{
+    color: #363958;
+}
+.ex-color{
+    color: #F9C261;
+}
+.alignment{
+    font-size: 40px;
+    color: #4C3DC7;
+}
+h4{
+    color: #363958;
+}
+h5{
+    font-weight: 500;
+    color:  #FF8367;
+    font-size: 24px;
+}
+.center-align{
+    text-align: center;
+}
+.experince{
+    height: 300px;
+}
 
