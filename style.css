@@ -1,6 +1,6 @@
 body{
     
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', cursive; */
 }
 section{
     padding-bottom: 100px;
@@ -26,6 +26,7 @@ p{
     font-size: 16px;
     font-weight: 300;
     color: #3E3E3E;
+    font-family: 'Roboto', sans-serif;
 }
 .half-width{
     width: 40%;
